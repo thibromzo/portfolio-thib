@@ -3,9 +3,11 @@
 Bienvenue sur le projet de mon portfolio. Vous trouverez dans ce Readme les instructions pour installer et ouvrir ce projet.
 
 * IDE utiliser pour ce projet
+  
 VSCode + Node.js
 
 * Cloner le projet
+  
 Lien du clone : (https://github.com/thibromzo/Portfolio-thib.git)
 
 1- Ouvrez votre terminal dans un nouveau dossier où vous voulez cloner le projet.
