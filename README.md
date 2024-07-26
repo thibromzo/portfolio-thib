@@ -1,29 +1,32 @@
-#  portfolio
+Devoir CEF Porfolio 
+Bienvenue sur le projet de mon portfolio. Vous trouverez dans ce Readme les instructions pour installer et ouvrir ce projet.
 
-This template should help get you started developing with Vue 3 in Vite.
+IDE utiliser pour ce projet
+VSCode + Node.js
 
-## Recommended IDE Setup
+Cloner le projet
+Lien du clone : (https://github.com/thibromzo/Portfolio-thib.git)
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+1- Ouvrez votre terminal dans un nouveau dossier où vous voulez cloner le projet.
 
-## Customize configuration
+2- Taper "git clone" et copier l'URL ci-dessus.
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+git clone (https://github.com/thibromzo/Portfolio-thib.git)
 
-## Project Setup
+3- Presser "Entrer" pour créer votre clone local.
 
-```sh
-npm install
-```
+Installer npm
+Pour pouvoir lancer le projet, vous devez installer npm dans le fichier pour ce faire.
 
-### Compile and Hot-Reload for Development
+1- Rentrez dans le dossier cloner.
 
-```sh
+cd Portfolio-thib
+
+2- Installez le package.
+
+install npm
+
+Lancer le projet
+Une fois cloné et npm installé, vous pourrez compiler et lancer le projet en entrant la commande suivante dans votre terminal.
+
 npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
