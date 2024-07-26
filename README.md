@@ -1,12 +1,12 @@
-* Devoir CEF Porfolio
+* DEVOIR CEF PORTFOLIO
 
 Bienvenue sur le projet de mon portfolio. Vous trouverez dans ce Readme les instructions pour installer et ouvrir ce projet.
 
-* IDE utiliser pour ce projet
+* IDE UTILISER POUR CE PROJET
   
 VSCode + Node.js
 
-* Cloner le projet
+* CLONER LE PROJET
   
 Lien du clone : (https://github.com/thibromzo/Portfolio-thib.git)
 
@@ -18,7 +18,7 @@ git clone (https://github.com/thibromzo/Portfolio-thib.git)
 
 3- Presser "Entrer" pour créer votre clone local.
 
-* Installer npm
+* INSTALLER NPM
   
 Pour pouvoir lancer le projet, vous devez installer npm dans le fichier pour ce faire.
 
@@ -28,9 +28,9 @@ cd Portfolio-thib
 
 2- Installez le package.
 
- install npm
+ npm install
 
-* Lancer le projet
+* LANCER LE PROJET
 
 Une fois cloné et npm installé, vous pourrez compiler et lancer le projet en entrant la commande suivante dans votre terminal.
 
